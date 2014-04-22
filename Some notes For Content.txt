@@ -1,0 +1,36 @@
+I am not sure how to describe this:
+
+I am super motivated about technology
+
+I have taken what opportunities I have had and tried to make the best of them 
+	UNIX tool mastery
+	bash dabbled in zsh but went back to bash
+	Source Code - GIT and SVN
+		recently learned git think it is the best, when working on svn projects, I notice so much how the lack of network latency is such a benefit. 
+
+Take those lacks and try to turn them into a benefit.
+Take my diversity and sell it. 
+
+I want to work in a unix or mac shop because I know that those platforms are built from the ground up by programmers for programmers. I hate working in word. If a document needs to be written it should be ‘generated’ by a script in a reproducible manner, in plain text where I can easily see what changes billy made to it, and billy does not have to remember to track changes, and I can do a local diff on my local git repo.
+
+I want to work with at least some people, who are genuinely excited by technology. People who know what hacker news is. 
+
+I am not a front-end web developer but I build myself this website using the foundation framework. I have never used but have heard of jQuery, Angular.js and Ember.js. 
+
+I would like to look into Go and Rust one of these days because I think that the future will not be written in C++ or any memory unsafe language (see also heart bleed, or the gnuTLS, or goto fail). 
+
+I come from a third camp, you may have kids who grew up with computers who wrote their first javascript library when they were in grade school. And you may have developer who cut their teeth using fortran on punch cards. Then there’s me. My family owned a computer when I was a child. I used the internet to look at guitar-tabs when I was in high-school (I also remember, barely passing keyboarding class). but computers never really clicked for me. I did’ not even own a computer for a few years there in the early 2000. I bought an apple laptop in 2004 an used garageband on it. It was not until 2008 I took a class during my Undergraduate in Electrical Engineering on Embedded Systems. Using C. 
+
+That was my first experience with programming. C on Microcontroller. You were lucky to get an LED to light. And I still managed to like it. 
+
+From there it just bloomed and kept blooming. I took all the programming classes offered for EE's which is to say more Embedded systems. 
+
+I took a summer internship at Lincoln Lab. I worked out there for 3 summers. Each summer a differnt programming paradigm. 
+
+Labview - GUI interface to a radar system
+C# - GUI interface to a radar System
+Matlab/Simulink - FPGA layout 
+
+Dont take my shallow pool experience to mean that I dont know anything. It is a big pool, just not very deep.
+
+I have taken at least a bit of time to dabble in most of the stuff that is out there js/html/css, ruby/python, sed/awk/grep, gnome/xfce/lxde, mac/linux, emacs/vim, C/C++/C#/Obj-C, 
