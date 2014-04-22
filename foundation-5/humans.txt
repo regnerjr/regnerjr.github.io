@@ -2,6 +2,12 @@
 /* zurb.com */
 /* humanstxt.org */
 
+
+/* Thanks to the folks an ZURB for making foundation and thus this website possible */
+/* Team: John R. Regner */
+/* url: johnregner.com */
+/* twitter: john_regner */
+
 /* SITE */
   Standards: HTML5, CSS3
   Components: jQuery, Orbit, Reveal
