@@ -1,36 +1,33 @@
-I am not sure how to describe this:
+John Regner
 
-I am super motivated about technology
+ - In Your Dreams Software. 
 
-I have taken what opportunities I have had and tried to make the best of them 
-	UNIX tool mastery
-	bash dabbled in zsh but went back to bash
-	Source Code - GIT and SVN
-		recently learned git think it is the best, when working on svn projects, I notice so much how the lack of network latency is such a benefit. 
+I was introduced to computers as a typical user video games as a child, Instant Message in High School, GarageBand as a young adult. I never really found the crack from userland into the minecraft like world of the programmer. Where anything can be made from the multitude of bits that are lying around. 
 
-Take those lacks and try to turn them into a benefit.
-Take my diversity and sell it. 
+I got my first introduction to programming while studying for my BS in Electrical Engineering. I will never forget that. C language programming on a microcontroller. If the LED lights up then you know your programming is working. The first program that we were tasked with running included a `for(;;){ //statements }` loop. From there it just bloomed and kept blooming. I took all the programming classes offered for EE's which is to say more Embedded Systems. 
 
-I want to work in a unix or mac shop because I know that those platforms are built from the ground up by programmers for programmers. I hate working in word. If a document needs to be written it should be ‘generated’ by a script in a reproducible manner, in plain text where I can easily see what changes billy made to it, and billy does not have to remember to track changes, and I can do a local diff on my local git repo.
+Somehow it still managed to ignite a spark in me. I went on to finish my BSEE but I knew that I would be a programmer. I had a repeat internship developing a radar test platform. Each summer when I returned the project had grown more advanced and the programming language had changed. Summer one was working in LabView, then we advanced to C#/WinForms, and finaly my last summer I was developing for an FPGA using Matlab/Simulink.  
 
-I want to work with at least some people, who are genuinely excited by technology. People who know what hacker news is. 
+All of this is to say that I have experience with a number or computing platforms, lanugages, and paradigms. I would really like to know more. 
 
-I am not a front-end web developer but I build myself this website using the foundation framework. I have never used but have heard of jQuery, Angular.js and Ember.js. 
+After leaving college with a degree in EE I decided that I was going to try to cross over into a more software focused role. I found a role doing software testing for an embedded company. It turns out that that looks a lot more like writing word documents than developing bash scripts to test things. 
+
+I believe in automation. If it will take the same amount of time to do a task manualy or to automate it, then it should be automated because that second time it saves you the whole time. 
+
+I believe that documentation should be written in plain text. If a document needs to be written it should be ‘generated’ by a script in a reproducible manner. We are programmers, shouldn't we program our documentation. 
+
+I believe that people should strive to master their tools, and that people should use professional tools. 
+
+I have taken the time to learn much about the unix tool set and love any opportunity to work from the command line. I don't thing I could survive without it at this point. 
+
+Source should always be under version control (I am quickly leaning to love git), commit messages should be long and detailed. Commits should be small and easily understood. 
+
+I want to work with people, who are genuinely excited by technology. People who feel that it is a privelidge to do this work. People who want to make the world a better place through their use of computers.  
+
+I am not a front-end web developer but I built myself this website using the foundation framework. I have never used but have heard of jQuery, Angular.js and Ember.js. 
 
 I would like to look into Go and Rust one of these days because I think that the future will not be written in C++ or any memory unsafe language (see also heart bleed, or the gnuTLS, or goto fail). 
 
-I come from a third camp, you may have kids who grew up with computers who wrote their first javascript library when they were in grade school. And you may have developer who cut their teeth using fortran on punch cards. Then there’s me. My family owned a computer when I was a child. I used the internet to look at guitar-tabs when I was in high-school (I also remember, barely passing keyboarding class). but computers never really clicked for me. I did’ not even own a computer for a few years there in the early 2000. I bought an apple laptop in 2004 an used garageband on it. It was not until 2008 I took a class during my Undergraduate in Electrical Engineering on Embedded Systems. Using C. 
+Dont take my shallow pool of experience to mean that I dont know anything. It is a big pool, just not very deep.
 
-That was my first experience with programming. C on Microcontroller. You were lucky to get an LED to light. And I still managed to like it. 
-
-From there it just bloomed and kept blooming. I took all the programming classes offered for EE's which is to say more Embedded systems. 
-
-I took a summer internship at Lincoln Lab. I worked out there for 3 summers. Each summer a differnt programming paradigm. 
-
-Labview - GUI interface to a radar system
-C# - GUI interface to a radar System
-Matlab/Simulink - FPGA layout 
-
-Dont take my shallow pool experience to mean that I dont know anything. It is a big pool, just not very deep.
-
-I have taken at least a bit of time to dabble in most of the stuff that is out there js/html/css, ruby/python, sed/awk/grep, gnome/xfce/lxde, mac/linux, emacs/vim, C/C++/C#/Obj-C, 
+Do you have a place for me where I can improve the world through software? 
