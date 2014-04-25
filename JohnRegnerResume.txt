@@ -1,0 +1,50 @@
+John Regner
+===========
+
+Career Goal: To obtain an internship in the field of electrical engineering.
+----------------------------------------------------------------------------
+
+### Work History
+
+Astronautics Corporation of America                 _Oct 2012 - Present_
+- Team work, large team a400, huge svn system
+- Small team Exelis 5 people
+- Critial observation of complex systems
+- Procedures, process
+- Stuff here about, formal verification, chef? docker? vagrant
+- Testing, creativity,
+- Automating the reimaging of the server and of the install of the required test
+  scritps
+
+MIT Lincoln Lab                                    _Summers 2009 - 2011_
+- Build Radar User interface in 2 languages
+-
+
+United States Navy, Aviation Electronics Technician        _2003 - 2007_
+- I am awesome at dealing with people, working in a team and managing
+  that team.
+- Served as an active consultant on a review panel for the Garmin GPS
+  system on board the E2-C Hawkeye aircraft
+- Received an honorable discharge from a 4-year commitment
+- Supervised and maintained staff morale as an active supervisor
+- Gained real-world work experience in maintaining professionalism
+- Obtained a Secret Security Clearance (Still Active)
+
+Computer Experience
+- Linux terminal, usage scritping
+- Version control git, subversion, hg
+- Scripting languages, ruby, python, sed, awk, bash
+- Compiled languages C/C++/C#/Obj-C
+- Web tech HTML/CSS/Javascritp, Foundation(Zurb)
+- Writing Tech, Markdown, Latex
+- Experience in Digital Signal Processing and Array Processing
+- In depth knowledge of Mac OS X, and Unix operating systems
+- Solid Understanding of Atmel RISC Assembly Language
+- Working Knowledge of Microsoft Visual Studio and Office Suite, Windows XP, Vista, and 7
+
+
+Education - Milwaukee School of Engineering (MSOE)
+BS in Electrical Engineering
+   Studied Digital Signal Processing and Embedded Systems
+   (Emphasis Embedded Systems)
+- GPA 3.44
