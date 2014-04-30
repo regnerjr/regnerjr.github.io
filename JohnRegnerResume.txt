@@ -1,50 +1,90 @@
 John Regner
-===========
+===
 
-Career Goal: Teach and be taught the art and science of software craftsmanship while creating world class software
-----------------------------------------------------------------------------
+#### Career Goal: Participate in a work culture where teamwork and creativity turn into quality software.
 
-### Work History
+<!--
+    Teach and learn the art and science of software craftsmanship while creating world class software.
+    participate in a team that creates shares openness teamwork high quality software well crafted
+-->
 
-Astronautics Corporation of America                 _Oct 2012 - Present_
-- Team work, large team a400, huge svn system
-- Small team Exelis 5 people
-- Critial observation of complex systems
-- Procedures, process
-- Stuff here about, formal verification, chef? docker? vagrant
-- Testing, creativity,
-- Automating the reimaging of the server and of the install of the required test
-  scritps
+<hr>
+##### Work History
 
-MIT Lincoln Lab                                    _Summers 2009 - 2011_
-- Build Radar User interface in 2 languages
--
+### Astronautics Corporation of America -- Software Verification Engineer <div align=right> _Oct 2012 - Present_</div>
 
-United States Navy, Aviation Electronics Technician        _2003 - 2007_
-- I am awesome at dealing with people, working in a team and managing
-  that team.
-- Served as an active consultant on a review panel for the Garmin GPS
-  system on board the E2-C Hawkeye aircraft
-- Received an honorable discharge from a 4-year commitment
-- Supervised and maintained staff morale as an active supervisor
-- Gained real-world work experience in maintaining professionalism
-- Obtained a Secret Security Clearance (Still Active)
-
-Computer Experience
-- Linux terminal, usage scritping
-- Version control git, subversion, hg
-- Scripting languages, ruby, python, sed, awk, bash
-- Compiled languages C/C++/C#/Obj-C
-- Web tech HTML/CSS/Javascritp, Foundation(Zurb)
-- Writing Tech, Markdown, Latex
-- Experience in Digital Signal Processing and Array Processing
-- In depth knowledge of Mac OS X, and Unix operating systems
-- Solid Understanding of Atmel RISC Assembly Language
-- Working Knowledge of Microsoft Visual Studio and Office Suite, Windows XP, Vista, and 7
+* Designed Tests scripts for Linux Server and Remote Terminals
+    * Identifying Requirements which needed, new/improved/changed tests
+    * Documenting the testing steps (MS Word, MS Excel, IBM DOORS)
+    * Writing/Modifying testing applications and scripts in an appropriate language (C, C++, python, bash, SQLite)
+    * Executing tests and collecting results
+    * During this work I interacted with Windows XP, Linux, BSD, SVN, and Emacs
+* Testing, creativity,
+* Automating the re-imaging of the server and of the install of the required test scripts
 
 
-Education - Milwaukee School of Engineering (MSOE)
-BS in Electrical Engineering
-   Studied Digital Signal Processing and Embedded Systems
-   (Emphasis Embedded Systems)
-- GPA 3.44
+### MIT Lincoln Lab -- Air Defense Techniques (GUI Software, FPGA design) <div align=right>_Summers 2009 - 2011_</div>
+
+* Build Radar User interface in LabView and C#/WinForms
+* Build Radar Detection sub-components to target FPGA using Matlab/Simulink
+* I was part of a 3 person team and was expected to be highly autonomous.
+* Implemented K-means clustering algorithm and associated graph to
+  allow radar operator to determine approximate number and spacing of
+  enemy radar systems operating in the same area.
+
+### United States Navy -- Aviation Electronics Technician <div align=right>_2003 - 2007_</div>
+
+* Analyzed and repaired faults in multiple subsystems on board the aircraft.
+* Managed the night shift after only 6 months of experience, team size 8 people.
+* Ensured team morale by being attentive and reactive to each persons strengths and weaknesses
+* Served as consultant for the Garmin GPS system aircraft integration and documentation.
+* Obtained a Secret Security Clearance (Still Active)
+* Received an honorable discharge from a 4-year commitment
+* I am awesome at dealing with people, working in a team and managing that team.
+
+<hr>
+
+### Computer Experience
+
+* Bash shell usage for complex pipelines and scripts
+* Correct language for the job, scripting or compiled
+    * bash, python, sed, awk, lisp, ruby
+    * C/C++/Obj-C
+* Version control git, subversion, Mercurial
+* Web tech HTML/CSS/Javascript, Foundation(Zurb)
+* Writing tech, Markdown, Latex, HTML
+* Experience in Digital Signal Processing
+* In depth knowledge of Mac OS X, and Unix operating systems
+
+<hr>
+
+### Education - Milwaukee School of Engineering (MSOE) <div align=right>_2007-2011_</div>
+BS in Electrical Engineering  - _GPA 3.31_ - _Dean's List 12/12 Trimesters_
+>Studied Digital Signal Processing and Embedded Systems<br>
+ (Emphasis Embedded Systems)
+
+
+* Developed WinForms GUI to track usage, and remotely control power outlets.
+
+Usage was displayed in terms of cost which was collected from the We
+Energies website automatically.  Developed software to transmit usage
+statistics wireless between the Outlet and the PC so cost could be
+displayed on the outlet, and usage could be displayed on the
+Computer. Established team usage of SVN to for microcontroller and Windows Application source code.
+
+* iPhone Audio Effects System
+
+Some paragraph here about the iPhone system that I wrote to read
+samples from the microphone and preform different user requested
+effects on the input signal, echo, distortion
+
+* Autonomous robot project (interrupt driven, procedural)
+
+Built and programmed microcontroller robot for line tracking,
+collision detection and light avoidance. Using the C programming
+language and the features of the microcontroller.
+
+* Array signal Processing
+
+Studied the usage of multiple sources/sinks to preform noise reduction
+and beam forming.
