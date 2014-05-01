@@ -49,7 +49,7 @@ John Regner
 
 <hr>
 
-### Education - Milwaukee School of Engineering (MSOE) <div align=right>_2007-2011_</div>
+### Education - Milwaukee School of Engineering (MSOE) --   _2007-2011_
 BS in Electrical Engineering  - _GPA 3.31_ - _Dean's List 12/12 Trimesters_
 >Studied Digital Signal Processing and Embedded Systems
 <br>
