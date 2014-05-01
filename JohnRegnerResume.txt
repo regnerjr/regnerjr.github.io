@@ -2,7 +2,6 @@ John Regner
 ===
 
 #### Career Goal: Participate in a work culture where teamwork and creativity turn into quality software.
-
 <!--
     Teach and learn the art and science of software craftsmanship while creating world class software.
     participate in a team that creates shares openness teamwork high quality software well crafted
@@ -11,80 +10,62 @@ John Regner
 <hr>
 ##### Work History
 
-### Astronautics Corporation of America -- Software Verification Engineer <div align=right> _Oct 2012 - Present_</div>
+### Astronautics Corporation of America -- Software Verification Engineer   --  _Oct 2012 - Present_
+* Automated re-imaging of server and install of testing scripts
+* Designed tests and scripts for verification of a Linux Server and remote terminals
+    * Identified requirements which needed added,improved or changed tests
+    * Documented the testing procedures (MS Word, MS Excel, IBM DOORS)
+    * Wrote and modified testing applications and scripts in various language (C, C++, python, bash, SQL)
+    * Executed tests and recorded results
+    * During this work I interacted with Windows XP, Linux, BSD, SVN, Git, Emacs, and Vim
 
-* Designed Tests scripts for Linux Server and Remote Terminals
-    * Identifying Requirements which needed, new/improved/changed tests
-    * Documenting the testing steps (MS Word, MS Excel, IBM DOORS)
-    * Writing/Modifying testing applications and scripts in an appropriate language (C, C++, python, bash, SQLite)
-    * Executing tests and collecting results
-    * During this work I interacted with Windows XP, Linux, BSD, SVN, and Emacs
-* Testing, creativity,
-* Automating the re-imaging of the server and of the install of the required test scripts
+### MIT Lincoln Lab -- Air Defense Techniques Software Development Intern  --  _Summers 2009 - 2011_
 
+* Built radar user interface in LabView and C#/WinForms
+* Built radar detection sub-components to target FPGA using Matlab/Simulink
+* Confident working in a self-directed manner
+* Implemented k-means clustering algorithm and associated graph to allow radar operator to determine approximate number and spacing of enemy radar systems operating in the same area.
 
-### MIT Lincoln Lab -- Air Defense Techniques (GUI Software, FPGA design) <div align=right>_Summers 2009 - 2011_</div>
+### United States Navy -- Aviation Electronics Technician   --  _2003 - 2007_
 
-* Build Radar User interface in LabView and C#/WinForms
-* Build Radar Detection sub-components to target FPGA using Matlab/Simulink
-* I was part of a 3 person team and was expected to be highly autonomous.
-* Implemented K-means clustering algorithm and associated graph to
-  allow radar operator to determine approximate number and spacing of
-  enemy radar systems operating in the same area.
-
-### United States Navy -- Aviation Electronics Technician <div align=right>_2003 - 2007_</div>
-
-* Analyzed and repaired faults in multiple subsystems on board the aircraft.
-* Managed the night shift after only 6 months of experience, team size 8 people.
+* Analyzed and repaired faults in multiple subsystems on board the aircraft
+* Managed the night shift after 6 months, team size 8 people
 * Ensured team morale by being attentive and reactive to each persons strengths and weaknesses
-* Served as consultant for the Garmin GPS system aircraft integration and documentation.
+* Served as consultant for the Garmin GPS system aircraft integration and documentation
 * Obtained a Secret Security Clearance (Still Active)
-* Received an honorable discharge from a 4-year commitment
-* I am awesome at dealing with people, working in a team and managing that team.
-
+* Earned an honorable discharge from a 4-year commitment
 <hr>
 
 ### Computer Experience
 
-* Bash shell usage for complex pipelines and scripts
-* Correct language for the job, scripting or compiled
+* Bash shell usage for complex pipelines and scripts **usage really?**
+* Correct language for the job, scripting or compiled **Reword**
     * bash, python, sed, awk, lisp, ruby
     * C/C++/Obj-C
-* Version control git, subversion, Mercurial
-* Web tech HTML/CSS/Javascript, Foundation(Zurb)
-* Writing tech, Markdown, Latex, HTML
-* Experience in Digital Signal Processing
-* In depth knowledge of Mac OS X, and Unix operating systems
+* Version control Git, Subversion, Mercurial
+* Web -  HTML/CSS/Javascript, Foundation(Zurb)
+* Writing - Markdown, Latex, blog.johnregner.com
+* Experience in Digital Signal Processing (Audio and Image)
 
 <hr>
 
 ### Education - Milwaukee School of Engineering (MSOE) <div align=right>_2007-2011_</div>
 BS in Electrical Engineering  - _GPA 3.31_ - _Dean's List 12/12 Trimesters_
->Studied Digital Signal Processing and Embedded Systems<br>
- (Emphasis Embedded Systems)
+>Studied Digital Signal Processing and Embedded Systems
+<br>
 
+* Developed WinForms GUI to track usage, and remotely control home electrical outlets.
 
-* Developed WinForms GUI to track usage, and remotely control power outlets.
-
-Usage was displayed in terms of cost which was collected from the We
-Energies website automatically.  Developed software to transmit usage
-statistics wireless between the Outlet and the PC so cost could be
-displayed on the outlet, and usage could be displayed on the
-Computer. Established team usage of SVN to for microcontroller and Windows Application source code.
+    * Usage was displayed in terms of cost which was collected from the We Energies website automatically.  Developed software to transmit usage statistics wirelessly between the outlet and the PC. This two way communication allowed cost to be displayed on the outlet and power usage to be displayed on the computer. Established team usage of SVN for microcontroller and Windows Application source code.
 
 * iPhone Audio Effects System
 
-Some paragraph here about the iPhone system that I wrote to read
-samples from the microphone and preform different user requested
-effects on the input signal, echo, distortion
+    * Wrote iPhone audio effects processor using CoreAudio. Samples were taken from the microphone and processed using a user selected algorithm. Effects available were a variable time echo/reverb  and distortion.
 
 * Autonomous robot project (interrupt driven, procedural)
 
-Built and programmed microcontroller robot for line tracking,
-collision detection and light avoidance. Using the C programming
-language and the features of the microcontroller.
+    * Built and programmed microcontroller robot for line tracking, collision detection and light avoidance.  This was achieved through interfacing various external hardware components with the microcontroler .
 
 * Array signal Processing
 
-Studied the usage of multiple sources/sinks to preform noise reduction
-and beam forming.
+    * Studied the usage of multiple sources/sinks to perform noise reduction and beam forming.
