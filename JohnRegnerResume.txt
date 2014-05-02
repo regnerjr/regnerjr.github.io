@@ -34,7 +34,8 @@ John Regner  - \[ johnregner.com \]
 
 ### Computer Experience
 * Scripting - bash, python, sed, awk, lisp, ruby
-* Compiled - C/C++/Obj-C
+* Compiled - C/C#/C++/Obj-C
+* Environments - Visual Studio, Xcode, Cygwin, make
 * Version Control - Git, Subversion, Mercurial
 * Web -  HTML/CSS/Javascript, Foundation(Zurb)
 * Writing - Markdown, Latex, blog.johnregner.com
