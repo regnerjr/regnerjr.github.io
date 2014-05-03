@@ -1,6 +1,4 @@
-<p><link rel="stylesheet" type="text/css" href="resume-style-sheet.css"></p>
-
-<h1 id="johnregner-johnregner.com">John Regner - [ johnregner.com ]</h1>
+<h1 id="johnregner-johnregner.com">John Regner - <a href="index.txt">johnregner.com</a></h1>
 
 <h4 id="careergoal:participateinaworkculturewhereteamworkandcreativityturnintoqualitysoftware.">Career Goal: Participate in a work culture where teamwork and creativity turn into quality software.</h4>
 
@@ -49,7 +47,8 @@
 
 <ul>
 <li>Scripting - bash, python, sed, awk, lisp, ruby</li>
-<li>Compiled - C/C++/Obj-C</li>
+<li>Compiled - C/C#/C++/Obj-C</li>
+<li>Environments - Visual Studio, Xcode, Cygwin, make</li>
 <li>Version Control - Git, Subversion, Mercurial</li>
 <li>Web - HTML/CSS/Javascript, Foundation(Zurb)</li>
 <li>Writing - Markdown, Latex, blog.johnregner.com</li>

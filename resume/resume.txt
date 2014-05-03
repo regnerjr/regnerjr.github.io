@@ -1,6 +1,5 @@
-<link rel="stylesheet" type="text/css" href="resume-style-sheet.css">
-John Regner  - \[ johnregner.com \]
-===
+John Regner  - [johnregner.com](index.txt)
+===========
 
 #### Career Goal: Participate in a work culture where teamwork and creativity turn into quality software.
 
@@ -43,7 +42,7 @@ John Regner  - \[ johnregner.com \]
 
 <hr>
 
-### Education - Milwaukee School of Engineering (MSOE) --   _2007-2011_
+### Education - Milwaukee School of Engineering (MSOE)  --  _2007-2011_
 BS in Electrical Engineering  - _GPA 3.31_ - _Dean's List 12/12 Trimesters_
 >Studied Digital Signal Processing and Embedded Systems
 <br>
