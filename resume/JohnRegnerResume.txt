@@ -1,12 +1,12 @@
-John Regner  - [johnregner.com](index.txt)
+John Regner  - [johnregner.com](http://johnregner.com)
 ===========
 
 #### Career Goal: Participate in a work culture where teamwork and creativity turn into quality software.
 
 <hr>
 ##### Work History
-
-### Astronautics Corporation of America -- Software Verification Engineer   --  _Oct 2012 - Present_
+<div align=right> _Oct 2012 - Present_ </div>
+### Astronautics Corporation of America -- Software Verification Engineer   --
 * Automated re-imaging of server and install of testing scripts to reduce testing time
 * Designed tests and scripts for verification of a Linux Server and remote terminals
     * Identified requirements which needed added,improved or changed tests
