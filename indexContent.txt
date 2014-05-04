@@ -1,33 +1,70 @@
-John Regner
+I was introduced to computers as a typical user; I enjoyed video games
+as a child, instant message in high school, and GarageBand as a young
+adult. It was not until college that I discovered programming. My
+introduction came during an innocuously named class: Embedded Systems.
 
-- In Your Dreams Software.
+<!-- I never really found the crack from userland into the minecraft like -->
+<!-- world of the programmer. Where anything can be made from the multitude -->
+<!-- of bits that are lying around. -->
 
-I was introduced to computers as a typical user video games as a child, Instant Message in High School, GarageBand as a young adult. I never really found the crack from userland into the minecraft like world of the programmer. Where anything can be made from the multitude of bits that are lying around.
+Looking back this is probably the most confusing way to learn
+programming.  C language programming on a microcontroller. If the LED
+lights you know your programming is working, if not edit,compile, and
+try again. It was during this course, that I started to feel the pull
+toward a career in programming.
 
-I got my first introduction to programming while studying for my BS in Electrical Engineering. I will never forget that. C language programming on a microcontroller. If the LED lights up then you know your programming is working. The first program that we were tasked with running included a `for(;;){ //statements }` loop. From there it just bloomed and kept blooming. I took all the programming classes offered for EE's which is to say more Embedded Systems.
+During the summers while I worked on my degree I had the opportunity
+to work at a world class research laboratory. I developed the user
+interface to a radar test platform. Each summer when I returned the
+project had grown more advanced and the programming language became
+more sophisticated. Summer one was working in LabView, then we
+advanced to C#/WinForms, and finaly my last summer I was developing
+for an FPGA using Matlab/Simulink.
 
-Somehow it still managed to ignite a spark in me. I went on to finish my BSEE but I knew that I would be a programmer. I had a repeat internship developing a radar test platform. Each summer when I returned the project had grown more advanced and the programming language had changed. Summer one was working in LabView, then we advanced to C#/WinForms, and finaly my last summer I was developing for an FPGA using Matlab/Simulink.
+All of this is to say that I have experience with a number of
+computing platforms, lanugages, and paradigms. But I am always
+thirsting to know more.
 
-All of this is to say that I have experience with a number or computing platforms, lanugages, and paradigms. I would really like to know more.
+After leaving college with a degree in EE I decided that I was going
+to try to cross over into a more software focused role. I found a role
+doing software testing for an embedded company. It turns out that that
+looks a lot more like writing word documents than testing things.
 
-After leaving college with a degree in EE I decided that I was going to try to cross over into a more software focused role. I found a role doing software testing for an embedded company. It turns out that that looks a lot more like writing word documents than developing bash scripts to test things.
+I believe in automation. If it will take the same amount of time to do
+a task manualy or to automate it, then it should be automated because
+that second time it saves you the whole time.
 
-I believe in automation. If it will take the same amount of time to do a task manualy or to automate it, then it should be automated because that second time it saves you the whole time.
+I believe that documentation should be written in plain text. If a
+document needs to be written it should be ‘generated’ by a script in a
+reproducible manner. We are programmers, shouldn't we program our
+documentation.
 
-I believe that documentation should be written in plain text. If a document needs to be written it should be ‘generated’ by a script in a reproducible manner. We are programmers, shouldn't we program our documentation.
+I believe that people should strive to master their tools, and that
+people should use professional tools.
 
-I believe that people should strive to master their tools, and that people should use professional tools.
+I have taken the time to learn much about the unix tool set and love
+any opportunity to work from the command line. I don't thing I could
+survive without it at this point.
 
-I have taken the time to learn much about the unix tool set and love any opportunity to work from the command line. I don't thing I could survive without it at this point.
+Source should always be under version control (I am quickly leaning to
+love git), commit messages should be long and detailed. Commits should
+be small and easily understood.
 
-Source should always be under version control (I am quickly leaning to love git), commit messages should be long and detailed. Commits should be small and easily understood.
+I want to work with people, who are genuinely excited by
+technology. People who feel that it is a privelidge to do this
+work. People who want to make the world a better place through their
+use of computers.
 
-I want to work with people, who are genuinely excited by technology. People who feel that it is a privelidge to do this work. People who want to make the world a better place through their use of computers.
+I am not a front-end web developer but I built myself this website
+using the foundation framework. I have never used but have heard of
+jQuery, Angular.js and Ember.js.
 
-I am not a front-end web developer but I built myself this website using the foundation framework. I have never used but have heard of jQuery, Angular.js and Ember.js.
+I would like to look into Go and Rust one of these days because I
+think that the future will not be written in C++ or any memory unsafe
+language (see also heart bleed, or the gnuTLS, or goto fail).
 
-I would like to look into Go and Rust one of these days because I think that the future will not be written in C++ or any memory unsafe language (see also heart bleed, or the gnuTLS, or goto fail).
+Dont take my shallow pool of experience to mean that I dont know
+anything. It is a big pool, just not very deep.
 
-Dont take my shallow pool of experience to mean that I dont know anything. It is a big pool, just not very deep.
-
-Do you have a place for me where I can improve the world through software?
+Do you have a place for me where I can improve the world through
+software?
