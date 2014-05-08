@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="resume-style-sheet.css"></link>
 
-John Regner  - [johnregner.com](http://johnregner.com)
+John Regner  <span class=right><a target="_top" href=http://johnregner.com >johnregner.com</a></span>
 ===========
 
 #### Career Goal: Participate in a work culture where teamwork and creativity turn into quality software.
