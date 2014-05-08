@@ -1,0 +1,63 @@
+<link rel="stylesheet" href="resume-style-sheet.css"></link>
+
+John Regner  <span class=right><a target="_top" href=http://johnregner.com >johnregner.com</a></span>
+===========
+
+#### Career Goal: Participate in a work culture where teamwork and creativity turn into quality software.
+
+<hr>
+##### Work History
+
+### Astronautics Corporation of America -- Software Verification Engineer -- <span class=right>_Oct 2012 - Present_</span>
+* Automated re-imaging of server and install of testing scripts to reduce testing time
+* Designed tests and scripts for verification of a Linux Server and remote terminals
+    * Identified requirements which needed added,improved or changed tests
+    * Documented testing procedures using MS Word, MS Excel, IBM DOORS
+    * Wrote and modified testing applications and scripts in various language (C, C++, python, bash, SQL)
+    * Executed tests and recorded results to ensure correct system performance
+    * Highly proficient using and configuring Linux, Windows, SVN, Git, Emacs, and Vim
+
+### MIT Lincoln Lab -- Air Defense Techniques Software Development Intern  --  <span class=right>_2009 - 2011_</span>
+* Designed and built radar user interface in LabView and C#/WinForms
+* Developed radar detection sub-components to target FPGA using Matlab/Simulink
+* Confident working in a self-directed manner
+* Implemented k-means clustering algorithm and associated graph to allow operator to determine approximate number and spacing of other radar systems operating in the same area
+
+### United States Navy -- Aviation Electronics Technician   --  <span class=right>_2003 - 2007_</span>
+* Analyzed and repaired faults in multiple systems on board the aircraft
+* Supervised and delegated tasks to a team of 8 people
+* Ensured team morale by being attentive and responsive to each persons strengths and weaknesses
+* Served as consultant for the Garmin GPS system integration and documentation
+* Obtained a Secret Security Clearance (Active through 2021)
+* Earned an honorable discharge from a 4-year commitment
+
+<hr>
+
+### Computer Experience
+* Scripting - bash, python, sed, awk, lisp, ruby
+* Compiled - C/C#/C++/Obj-C
+* Environments - Visual Studio, Xcode, Cygwin, make
+* Version Control - Git, Subversion, Mercurial
+* Web -  HTML/CSS/Javascript, Foundation(Zurb)
+* Writing - Markdown, Latex, blog.johnregner.com
+* Experience in Digital Signal Processing (Audio and Image)
+
+<hr>
+
+### Education - Milwaukee School of Engineering (MSOE)  --  <span class=right>_2007-2011_</span>
+BS in Electrical Engineering  - _GPA 3.31_ - _Dean's List 12/12 Trimesters_
+>Studied Digital Signal Processing and Embedded Systems
+<br>
+
+* Developed WinForms GUI to track usage, and remotely control home electrical outlets.
+    * Outlet displayed real-time cost based on usage and automatically collected price. Wireless communicatio between outlet and pc allowed cost and usage to be displayed on both devices.
+    * Established team usage of SVN for microcontroller and Windows Application source code.
+
+* iPhone Audio Effects System
+    * Wrote iPhone audio effects processor using CoreAudio. Samples from microphone were taken and processed using a user selected algorithm. Effects available were a variable time echo/reverb and distortion.
+
+* Autonomous Robot (interrupt driven, procedural)
+    * Built and programmed microcontroller robot for line tracking, collision detection, and light avoidance.  This was achieved through interfacing various external hardware components with the microcontroler.
+
+* Array Signal Processing
+    * Studied the usage of multiple sources/sinks to perform noise reduction and beam forming.
