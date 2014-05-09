@@ -1,0 +1,29 @@
+%need some kind of page, mmd does not give us this by default
+\documentclass[paper=letter,11pt]{article}
+\pagestyle{empty}
+
+%set margins less wide
+\usepackage[margin=0.5in]{geometry}
+
+%sets bullet points less top and bottom margin
+\newlength{\wideitemsep}
+\setlength{\wideitemsep}{.5\itemsep}
+\addtolength{\wideitemsep}{-7pt}
+\let\olditem\item
+\renewcommand{\item}{\setlength{\itemsep}{\wideitemsep}\olditem}
+
+%Define a new command that, so we don't get the "Part I" stuff
+\newcommand{\NewPart}[1]{\section*{\uppercase{#1}}}
+
+% Do not put numbers for the sections.
+\setcounter{secnumdepth}{0}
+
+\usepackage[toctitles]{titlesec}
+% set section font size smaller
+\usepackage{sectsty}
+\sectionfont{\fontsize{12}{15}\selectfont}
+
+\begin{document}
+% add The above, before latex processing
+
+%search and replace \part => \NewPart
