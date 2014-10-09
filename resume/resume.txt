@@ -37,7 +37,7 @@ John Regner
 
 ### Computer Experience
 * Scripting - bash, python, sed, awk, lisp, ruby
-* Compiled - C/C#/C++/Obj-C
+* Compiled - C/C#/C++/Obj-C/Swift
 * Environments - Visual Studio, Xcode, Cygwin, make
 * Version Control - Git, Subversion, Mercurial
 * Web -  HTML/CSS/Javascript, Foundation(Zurb)
