@@ -29,3 +29,6 @@ rm resume_temp.tex
 rm resume.log
 rm resume.tex
 rm resume.aux
+
+//name your resume sensibly, so when people download it they know it belongs to you
+mv resume.pdf JohnRegnerResume.pdf
