@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+# If this script is failing make sure you have mactex basic installed
+# http://mirror.ctan.org/systems/mac/mactex/mactex-basic.pkg
+# Make sure that titlesec and sectsty latex packages are installed if not
+# install them with `sudo tlmgr sectsty titlesec
+
 #generate html resume page in the correct format for display on web
 markdown resume.txt > JohnRegnerResume.html
 
@@ -30,5 +35,5 @@ rm resume.log
 rm resume.tex
 rm resume.aux
 
-//name your resume sensibly, so when people download it they know it belongs to you
+#name your resume sensibly, so when people download it they know it belongs to you
 mv resume.pdf JohnRegnerResume.pdf
