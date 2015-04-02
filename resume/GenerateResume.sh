@@ -15,7 +15,7 @@ mmd2tex resume.txt
 sed '1,4d' resume.tex > resume1.tex
 
 #remove the work history, header, it is obvious.
-sed '10,11d' resume1.tex > resume.tex
+sed '9,10d' resume1.tex > resume.tex
 
 #clean up resume1.tex
 rm resume1.tex
@@ -23,8 +23,8 @@ rm resume1.tex
 #put the tex files together, substitute the part for the NewPart
 cat tex_header.tex resume.tex tex_footer.tex | sed 's_\part_\NewPart_g' > resume_temp.tex
 
-sed -e '116r tex_pagebreak.tex' resume_temp.tex > resume.tex
-
+sed -e '134r tex_pagebreak.tex' resume_temp.tex > resume.tex
+echo "Starting PDF Latex \n\n"
 pdflatex resume.tex
 # run 2x just to make sure you get the labels right
 pdflatex resume.tex
