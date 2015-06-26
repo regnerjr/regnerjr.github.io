@@ -10,6 +10,11 @@ John Regner
 <hr>
 ##### Work History
 
+### Freelance iOS Developer <span class=right>_2015 - Present_</span>
+  * Designed and built WorkWeek-Geo from concept through App Store submission.
+  * Developed apps entirely in Swift.
+  * Focused on Unit Testing and Design Patterns to improve code readability and resuse.
+
 ### Astronautics Corporation of America -- Software Verification Engineer <span class=right>_2012 - 2015_</span>
 * Automated re-imaging of server and install of testing scripts to reduce testing time
 * Designed tests and scripts for verification of a Linux Server and remote terminals
