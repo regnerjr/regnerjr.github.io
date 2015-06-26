@@ -6,7 +6,9 @@
 # install them with `sudo tlmgr sectsty titlesec
 
 #generate html resume page in the correct format for display on web
-markdown resume.txt > JohnRegnerResume.html
+cp resume.txt JohnRegnerResume.txt
+markdown JohnRegnerResume.txt
+rm JohnRegnerResume.txt
 
 #Create resume.tex, to be latex processed into a pdf
 mmd2tex resume.txt
