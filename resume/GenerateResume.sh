@@ -25,7 +25,7 @@ rm resume1.tex
 #put the tex files together, substitute the part for the NewPart
 cat tex_header.tex resume.tex tex_footer.tex | sed 's_\part_\NewPart_g' > resume_temp.tex
 
-sed -e '134r tex_pagebreak.tex' resume_temp.tex > resume.tex
+sed -e '129r tex_pagebreak.tex' resume_temp.tex > resume.tex
 echo "Starting PDF Latex \n\n"
 pdflatex resume.tex
 # run 2x just to make sure you get the labels right
