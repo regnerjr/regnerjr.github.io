@@ -19,8 +19,25 @@
     }
     img {
       border: solid inset 3px;
-      border-radius: 15%;
     }
+      .headerImage {
+          position: relative;
+      }
+      .mainHeading {
+          position: absolute;
+          bottom: 0;
+          right: 30px;
+      }
+      h1 {
+          color: #FFD585;
+          font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+          text-shadow:
+            -1px -1px 0 #000,
+             1px -1px 0 #000,
+            -1px 1px 0 #000,
+             1px 1px 0 #000;
+      }
+
   </style>
 </head>
 
@@ -88,9 +105,9 @@
     </div>
   </div>
 
-  <div class="row ">
-    <div class="large-12 columns ">
-      <div class="panel ">
+  <div class="row">
+    <div class="large-10 medium-10 columns large-centered medium-centered small-centered">
+      <div class="panel radius">
 
         <p>I believe in automation. If there is a possibility of having to do a
           task again you should automate it.</p>
@@ -111,10 +128,10 @@
     </div>
   </div>
   <div class="row">
-    <div class="large-3 medium-6 small-10 small-centered columns panel">
-      <p>
-        <a href="mailto:john@johnregner.com"> Email: john@johnregner.com </a>
-        <a href="tel:12627161799"> Phone: (262)716-1799 </a>
+    <div class="large-3 medium-6 small-8 small-centered columns panel radius">
+      <p class="text-center">
+          <a href="mailto:john@johnregner.com"> Email: john@johnregner.com </a><br>
+          <a href="tel:12627161799"> Phone: (262)716-1799 </a>
       </p>
     </div>
   </div>
