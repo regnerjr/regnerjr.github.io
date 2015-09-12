@@ -1,0 +1,51 @@
+/* Regular */
+@font-face {
+  font-family: 'League Gothic';
+  src: url('https://github.com/theleagueof/league-gothic/blob/master/webfonts/leaguegothic-italic-webfont.eot');
+  src: url('https://github.com/theleagueof/league-gothic/blob/master/webfonts/leaguegothic-italic-webfont.eot?#iefix') format('embedded-opentype'),
+  url('https://github.com/theleagueof/league-gothic/blob/master/webfonts/leaguegothic-italic-webfont.woff') format('woff'),
+  url('https://github.com/theleagueof/league-gothic/blob/master/webfonts/leaguegothic-italic-webfont.ttf') format('truetype'),
+  url('https://github.com/theleagueof/league-gothic/blob/master/webfonts/leaguegothic-italic-webfont.svg#league_gothic_italicregular') format('svg');
+  font-weight: normal;
+  font-style: italic;
+
+}
+
+#footer {
+  height: 50px;
+  bottom: 0px;
+  left: 0px;
+  line-height: 50px;
+  color: #aaa;
+  text-align: center;
+  width: 100%;
+}
+
+img {
+  border: solid inset 3px;
+}
+
+.headerImage {
+  position: relative;
+}
+
+.mainHeading {
+  position: absolute;
+  bottom: 0;
+  right: 30px;
+}
+
+.mainHeading h1 {
+  color: #FFD585;
+  font-family:'League Gothic', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+}
+
+h1 {
+  font-family:'League Gothic', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
