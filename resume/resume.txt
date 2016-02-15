@@ -11,11 +11,12 @@ A motivated self-stater, active iOS community member, with an eye for quality an
 * Worked with all parts of the iOS stack from layout to networking.
 * Added UITesting to ensure regressions were caught early in iterations.
 
-### Freelance iOS Developer <span class=right>_2014 - 2015</span>
+### Santa Clara iOS Connect Peer Mentor<span class=right>_Aug 2015 - Present_</span>
 **Tech**: Xcode, XCTest, UIKit, Quartz, Swift, Objective-C, XCUITesting, Git
 
-* Designed and built WorkWeek-Geo from concept through App Store submission.
-* Focused on Unit Testing and Design Patterns to improve code readability and reuse.
+* Teach and Mentor Beginning and Intermediate iOS Programmers
+* Formal presentations on iOS Unit and UITesting, and Git and GitHub
+* Answer and explain iOS questions, on iOS technologies, and Best Practices
 
 ### Astronautics Corporation of America -- Software Verification Engineer <span class=right>_2012 - 2015_</span>
 **Tech**: Linux, bash, python, sed, awk, C, C++, Visual Studio, Cygwin, make
@@ -53,5 +54,3 @@ A motivated self-stater, active iOS community member, with an eye for quality an
 * RokkinCat Hackathon -         Milwaukee, WI - Oct, 2014, Jan, 2015
 * NSCoder Milwaukee -           Aug, 2014 - July 2015
 * Swift Lang User Group -       Ongoing
-* Santa Clara iOS Connect -     Ongoing
-
