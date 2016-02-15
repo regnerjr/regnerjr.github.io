@@ -5,38 +5,36 @@
 
 A motivated self-stater, active iOS community member, with an eye for quality and the drive to achieve it.
 <hr>
-### Freelance iOS Developer <span class=right>_2015 - Present_</span>
+### Tripst - Co-Founder, iOS Developer <span class=right>_Oct 2015 - Present_</span>
+**Tech**: Swift, Core-Data, AsyncDisplayKit, Fastlane/CI, CocoaPods, GCD, Agile
+
+* Worked with all parts of the iOS stack from layout to networking.
+* Added UITesting to ensure regressions were caught early in iterations.
+
+### Freelance iOS Developer <span class=right>_2014 - 2015</span>
 **Tech**: Xcode, XCTest, UIKit, Quartz, Swift, Objective-C, XCUITesting, Git
 
-  * Designed and built WorkWeek-Geo from concept through App Store submission.
-  * Developed iOS Applications entirely in Swift.
-  * Focused on Unit Testing and Design Patterns to improve code readability and reuse.
-
+* Designed and built WorkWeek-Geo from concept through App Store submission.
+* Focused on Unit Testing and Design Patterns to improve code readability and reuse.
 
 ### Astronautics Corporation of America -- Software Verification Engineer <span class=right>_2012 - 2015_</span>
 **Tech**: Linux, bash, python, sed, awk, C, C++, Visual Studio, Cygwin, make
 
 * Automated re-imaging of server and install of testing scripts to reduce testing time
 * Designed tests and scripts for verification of a Linux Server and remote terminals
-    * Identified requirements which needed new, improved, or modified tests
-    * Executed tests and recorded results to ensure correct system performance
+  * Identified requirements which needed new, improved, or modified tests
+  * Executed tests and recorded results to ensure correct system performance
 
 ### MIT Lincoln Lab -- R&D Software Development Intern  <span class=right>_Summers 2009 - 2011_</span>
 **Tech**: C#, Visual Studio, LabView, MATLAB, Simulink
 
-* Designed and built radar user interface
-* Developed radar detection sub-components 
+* Designed and built radar user interface, and FPGA radar sub components
 * Implemented k-means clustering algorithm and associated graph to allow operator to determine approximate number and spacing of other radar systems operating in the same area
 
-### Education - Milwaukee School of Engineering (MSOE)  <span class=right>_2007-2011_</span>
-BS in Electrical Engineering  - _GPA 3.31_ - _Dean's List 12/12 Trimesters_
->Studied Digital Signal Processing and Embedded Systems
-
+### Education - Milwaukee School of Engineering - BSEE <span class=right>_2007-2011_</span>
 #### Projects
 * WAVE Smart Home Power Monitor - **Tech**: C, C#, SVN, Embedded Systems, Perl, Wireless UART,
 * iPhone Audio Effects System - **Tech**: Objective-C, CoreAudio, Debugging
-* Autonomous Robot - **Tech**: C, Embedded Systems, 
-* Array Signal Processing - **Tech**: MATLAB
 
 ### United States Navy -- Aviation Electronics Technician  <span class=right>_2003 - 2007_</span>
 **Tech**:  Multimeter, O-Scope, Security Clearance
@@ -48,9 +46,10 @@ BS in Electrical Engineering  - _GPA 3.31_ - _Dean's List 12/12 Trimesters_
 <hr>
 ### Professional Development
 
-* CocoaConf -                   Columbus, OH - Aug 2014
-* Functional Swift Conference - Brooklyn, NY - Dec 2014
+* Swift Summit -                San Francisco, CA - Oct 2015
 * Advance iOS Big Nerd Ranch -  Atlanta, GA - Feb 2015
+* Functional Swift Conference - Brooklyn, NY - Dec 2014
+* CocoaConf -                   Columbus, OH - Aug 2014
 * RokkinCat Hackathon -         Milwaukee, WI - Oct, 2014, Jan, 2015
 * NSCoder Milwaukee -           Aug, 2014 - July 2015
 * Swift Lang User Group -       Ongoing
