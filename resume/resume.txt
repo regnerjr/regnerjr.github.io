@@ -8,7 +8,7 @@ A motivated self-stater, active iOS community member, with an eye for quality an
 ### Tripst - Co-Founder, iOS Developer <span class=right>_Oct 2015 - Present_</span>
 **Tech**: Swift, Core-Data, AsyncDisplayKit, Fastlane/CI, CocoaPods, GCD, Agile
 
-* Worked with all parts of the iOS stack from layout to networking.
+* Improved all parts of the iOS App from layout and networking, to Testing and Continuous Integration
 * Added UITesting to ensure regressions were caught early in iterations.
 
 ### Santa Clara iOS Connect Peer Mentor<span class=right>_Aug 2015 - Present_</span>
