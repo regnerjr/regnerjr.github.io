@@ -3,7 +3,7 @@
 # John Regner
 <span class=right>john@johnregner.com -- (262) 716-1799<br>github.com/regnerjr -- blog.johnregner.com</span>
 
-A motivated self-stater, active iOS community member, with an eye for quality and the drive to achieve it.
+A motivated self-starter, active iOS community member, with an eye for quality and the drive to achieve it.
 <hr>
 ### Tripst - Co-Founder, iOS Developer <span class=right>_Oct 2015 - Present_</span>
 **Tech**: Swift, Core-Data, AsyncDisplayKit, Fastlane/CI, CocoaPods, GCD, Agile
