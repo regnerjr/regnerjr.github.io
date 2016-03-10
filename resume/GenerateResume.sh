@@ -12,6 +12,11 @@ htmldoc JohnRegnerResume.html \
   --no-toc \
   --header . \
   --footer . \
-  --fontspacing 1.0 \
+  --top 20pt \
+  --bottom 20pt \
+  --right 40pt \
+  --left 40pt \
+  --fontspacing 0.9 \
+  --links \
   -f JohnRegnerResume.pdf
 
