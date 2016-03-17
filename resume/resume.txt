@@ -1,24 +1,29 @@
-<link rel="stylesheet" href="resume-style-sheet.css"></link>
+Title: Resume
+Author: John Regner
+CSS: resume-style-sheet.css
+Format: complete
+Title: John Regner Resume
 
 # John Regner
-<span class=right>john@johnregner.com -- (262) 716-1799<br>github.com/regnerjr -- blog.johnregner.com</span>
+<span class="right">john@johnregner.com -- (262) 716-1799<br>github.com/regnerjr -- blog.johnregner.com</span>
 
 A motivated self-starter, active iOS community member, with an eye for quality and the drive to achieve it.
 <hr>
-### Tripst - Co-Founder, iOS Developer <span class=right>_Oct 2015 - Present_</span>
+
+#### Tripstr - Co-Founder, iOS Developer <div align="right"> - _Oct 2015 - Mar 2016_</div>
 **Tech**: Swift, Core-Data, AsyncDisplayKit, Fastlane/CI, CocoaPods, GCD, Agile, GitHub
 
 * Improved all parts of the iOS App from layout and networking, to Testing and Continuous Integration
 * Added UITesting to ensure regressions were caught early in iterations.
 
-### Santa Clara iOS Connect Peer Mentor<span class=right>_Aug 2015 - Present_</span>
+#### Santa Clara iOS Connect Peer Mentor <div align="right"> - _Aug 2015 - Present_</div>
 **Tech**: Xcode, XCTest, UIKit, Quartz, Swift, Objective-C, XCUITesting, Git
 
 * Teach and Mentor Beginning and Intermediate iOS Programmers
 * Formal presentations on iOS Unit and UITesting, and Git and GitHub
 * Answer and explain iOS questions, on iOS technologies, and Best Practices
 
-### Astronautics Corporation of America -- Software Verification Engineer <span class=right>_2012 - 2015_</span>
+#### Astronautics Corporation of America -- Software Verification Engineer <div align="right"> - _2012 - 2015_</div>
 **Tech**: Linux, bash, python, sed, awk, C, C++, Visual Studio, Cygwin, make
 
 * Automated re-imaging of server and install of testing scripts to reduce testing time
@@ -26,18 +31,18 @@ A motivated self-starter, active iOS community member, with an eye for quality a
   * Identified requirements which needed new, improved, or modified tests
   * Executed tests and recorded results to ensure correct system performance
 
-### MIT Lincoln Lab -- R&D Software Development Intern  <span class=right>_Summers 2009 - 2011_</span>
+#### MIT Lincoln Lab -- R&D Software Development Intern  <div align="right"> - _Summers 2009 - 2011_</div>
 **Tech**: C#, Visual Studio, LabView, MATLAB, Simulink
 
 * Designed and built radar user interface, and FPGA radar sub components
 * Implemented k-means clustering algorithm and associated graph to allow operator to determine approximate number and spacing of other radar systems operating in the same area
 
-### Education - Milwaukee School of Engineering - BSEE <span class=right>_2007-2011_</span>
-#### Projects
+#### Education - Milwaukee School of Engineering - BSEE <div align="right"> - _2007-2011_</div>
+##### Projects
 * WAVE Smart Home Power Monitor - **Tech**: C, C#, SVN, Embedded Systems, Perl, Wireless UART,
 * iPhone Audio Effects System - **Tech**: Objective-C, CoreAudio, Debugging
 
-### United States Navy -- Aviation Electronics Technician  <span class=right>_2003 - 2007_</span>
+#### United States Navy -- Aviation Electronics Technician  <div align="right"> - _2003 - 2007_</div>
 **Tech**:  Multimeter, O-Scope, Security Clearance
 
 * Analyzed and repaired faults in multiple systems on board the aircraft
@@ -45,7 +50,7 @@ A motivated self-starter, active iOS community member, with an eye for quality a
 * Ensured team morale by being attentive and responsive to each persons strengths and weaknesses
 
 <hr>
-### Professional Development
+#### Professional Development
 
 * Swift Summit -                San Francisco, CA - Oct 2015
 * Advance iOS Big Nerd Ranch -  Atlanta, GA - Feb 2015
