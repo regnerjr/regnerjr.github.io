@@ -5,18 +5,18 @@ Format: complete
 Title: John Regner Resume
 
 # John Regner
-<span class="right">john@johnregner.com -- (262) 716-1799<br>github.com/regnerjr -- blog.johnregner.com</span>
+<span class="right"><a href="mailto:john@johnregner.com">john@johnregner.com</a> -- <a href="tel:2627161799">(262) 716-1799</a><br><a href="http://github.com/regnerjr">github.com/regnerjr</a> -- <a href="http://blog.johnregner.com">blog.johnregner.com</a></span>
 
 A motivated self-starter, active iOS community member, with an eye for quality and the drive to achieve it.
 <hr>
 
-#### Tripstr - Co-Founder, iOS Developer <div align="right"> - _Oct 2015 - Mar 2016_</div>
+#### <a href="http://tripstr.com">Tripstr</a> - Co-Founder, iOS Developer <div align="right"> - _Oct 2015 - Mar 2016_</div>
 **Tech**: Swift, Core-Data, AsyncDisplayKit, Fastlane/CI, CocoaPods, GCD, Agile, GitHub
 
 * Improved all parts of the iOS App from layout and networking, to Testing and Continuous Integration
 * Added UITesting to ensure regressions were caught early in iterations.
 
-#### Santa Clara iOS Connect Peer Mentor <div align="right"> - _Aug 2015 - Present_</div>
+#### <a href="http://www.meetup.com/SantaClara-iOS/">Santa Clara iOS Connect</a> Peer Mentor <div align="right"> - _Aug 2015 - Present_</div>
 **Tech**: Xcode, XCTest, UIKit, Quartz, Swift, Objective-C, XCUITesting, Git
 
 * Teach and Mentor Beginning and Intermediate iOS Programmers
