@@ -7,8 +7,15 @@ Title: John Regner Resume
 # John Regner
 <span class="right"><a href="mailto:john@johnregner.com">john@johnregner.com</a> -- <a href="tel:2627161799">(262) 716-1799</a><br><a href="http://github.com/regnerjr">github.com/regnerjr</a> -- <a href="http://blog.johnregner.com">blog.johnregner.com</a></span>
 
-A motivated self-starter, active iOS community member, with an eye for quality and the drive to achieve it.
+A motivated self-starter and active iOS community member, with an eye for quality and the drive to achieve it.
 <hr>
+
+#### <a href="http://safeway.com">Safeway</a> - iOS Developer <div align="right"> - _Apr 2016 - Present_</div>
+**Tech**: Swift, Objective-C, Core-Data, Fastlane/CI, GCD, Agile, SVN, GIT
+
+* Converted team from SVN to Git for increased flexibility and trust in our version control system
+* Increased team's technical abilities through ongoing peer training in Swift best practices.
+* Improved user experience by recommending the proper use of animations
 
 #### <a href="http://tripstr.com">Tripstr</a> - Co-Founder, iOS Developer <div align="right"> - _Oct 2015 - Mar 2016_</div>
 **Tech**: Swift, Core-Data, AsyncDisplayKit, Fastlane/CI, CocoaPods, GCD, Agile, GitHub
@@ -17,7 +24,7 @@ A motivated self-starter, active iOS community member, with an eye for quality a
 * Added UITesting to ensure regressions were caught early in iterations.
 
 #### <a href="http://www.meetup.com/SantaClara-iOS/">Santa Clara iOS Connect</a> Peer Mentor <div align="right"> - _Aug 2015 - Present_</div>
-**Tech**: Xcode, XCTest, UIKit, Quartz, Swift, Objective-C, XCUITesting, Git
+**Tech**: Xcode, UIKit, CoreGraphics, Swift, Objective-C, Git, Software Architecture
 
 * Teach and Mentor Beginning and Intermediate iOS Programmers
 * Formal presentations on iOS Unit and UITesting, and Git and GitHub
@@ -28,8 +35,6 @@ A motivated self-starter, active iOS community member, with an eye for quality a
 
 * Automated re-imaging of server and install of testing scripts to reduce testing time
 * Designed tests and scripts for verification of a Linux Server and remote terminals
-  * Identified requirements which needed new, improved, or modified tests
-  * Executed tests and recorded results to ensure correct system performance
 
 #### MIT Lincoln Lab -- R&D Software Development Intern  <div align="right"> - _Summers 2009 - 2011_</div>
 **Tech**: C#, Visual Studio, LabView, MATLAB, Simulink
@@ -47,15 +52,11 @@ A motivated self-starter, active iOS community member, with an eye for quality a
 
 * Analyzed and repaired faults in multiple systems on board the aircraft
 * Supervised and delegated tasks to a team of 8 people
-* Ensured team morale by being attentive and responsive to each persons strengths and weaknesses
 
 <hr>
 #### Professional Development
 
-* Swift Summit -                San Francisco, CA - Oct 2015
-* Advance iOS Big Nerd Ranch -  Atlanta, GA - Feb 2015
-* Functional Swift Conference - Brooklyn, NY - Dec 2014
-* CocoaConf -                   Columbus, OH - Aug 2014
-* RokkinCat Hackathon -         Milwaukee, WI - Oct, 2014, Jan, 2015
-* NSCoder Milwaukee -           Aug, 2014 - July 2015
-* Swift Lang User Group -       Ongoing
+* Conferences: CocoaConf Aug-2014, Functional Swift Conf Dec-2014, Swift Summit Oct-2015,
+* Training: Advanced iOS Big Nerd Ranch -  Atlanta, GA - Feb 2015
+* RokkinCat Hackathon - Milwaukee, WI - Oct, 2014, Jan, 2015
+* Meet-ups: NSCoder Milwaukee (2014 - 2015), Swift Lang User Group (2015 - 2016), Santa Clara iOS Connect (2015 - Present)
