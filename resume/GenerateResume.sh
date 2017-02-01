@@ -17,6 +17,6 @@ htmldoc JohnRegnerResume.html \
   --right 40pt \
   --left 40pt \
   --fontspacing 0.9 \
-  --links \
+  --linkstyle plain \
   -f JohnRegnerResume.pdf
 
