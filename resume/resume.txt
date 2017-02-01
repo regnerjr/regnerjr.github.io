@@ -10,11 +10,12 @@ Title: John Regner Resume
 A motivated self-starter and active iOS community member, with an eye for quality and the drive to achieve it.
 <hr>
 
-#### <a href="http://safeway.com">Safeway</a> - iOS Developer <div align="right"> - _Apr 2016 - Present_</div>
-**Tech**: Swift, Objective-C, Core-Data, Fastlane/CI, GCD, Agile, SVN, GIT
+#### iOS Contract Developer - <a href="http://grocery.walmart.com">Walmart Grocery</a>, <a href="http://safeway.com">Safeway</a> <div align="right"> - _Apr 2016 - Present_</div>
+**Tech**: Swift & Objective-C, CoreData, Fastlane/Jenkins/make, GCD, Agile, svn, git
 
 * Converted team from SVN to Git for increased flexibility and trust in our version control system
-* Increased team's technical abilities through ongoing peer training in Swift best practices.
+* Improved build process using Fastlane and Jenkins
+* Lead Swift 2.2 -> 2.3 conversion
 * Improved user experience by recommending the proper use of animations
 
 #### <a href="http://tripstr.com">Tripstr</a> - Co-Founder, iOS Developer <div align="right"> - _Oct 2015 - Mar 2016_</div>
@@ -43,14 +44,13 @@ A motivated self-starter and active iOS community member, with an eye for qualit
 * Implemented k-means clustering algorithm and associated graph to allow operator to determine approximate number and spacing of other radar systems operating in the same area
 
 #### Education - Milwaukee School of Engineering - BSEE <div align="right"> - _2007-2011_</div>
-##### Projects
+
 * WAVE Smart Home Power Monitor - **Tech**: C, C#, SVN, Embedded Systems, Perl, Wireless UART,
 * iPhone Audio Effects System - **Tech**: Objective-C, CoreAudio, Debugging
 
 #### United States Navy -- Aviation Electronics Technician  <div align="right"> - _2003 - 2007_</div>
-**Tech**:  Multimeter, O-Scope, Security Clearance
 
-* Analyzed and repaired faults in multiple systems on board the aircraft
+* Analyzed and repaired faults in multiple hardware systems on board the aircraft
 * Supervised and delegated tasks to a team of 8 people
 
 <hr>
