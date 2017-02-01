@@ -58,5 +58,6 @@ A motivated self-starter and active iOS community member, with an eye for qualit
 
 * Conferences: CocoaConf Aug-2014, Functional Swift Conf Dec-2014, Swift Summit Oct-2015,
 * Training: Advanced iOS Big Nerd Ranch -  Atlanta, GA - Feb 2015
+* DevCamp Hackathon - [Best Open Source](https://devca.mp/team-fe0ba080aa57#8415) - San Francisco, Nov 2016
 * RokkinCat Hackathon - Milwaukee, WI - Oct, 2014, Jan, 2015
 * Meet-ups: NSCoder Milwaukee (2014 - 2015), Swift Lang User Group (2015 - 2016), Santa Clara iOS Connect (2015 - Present)
