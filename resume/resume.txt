@@ -5,59 +5,73 @@ Format: complete
 Title: John Regner Resume
 
 # John Regner
-<span class="right"><a href="mailto:john@johnregner.com">john@johnregner.com</a> -- <a href="tel:2627161799">(262) 716-1799</a><br><a href="http://github.com/regnerjr">github.com/regnerjr</a> -- <a href="http://blog.johnregner.com">blog.johnregner.com</a></span>
+<span class="right">
 
-A motivated self-starter and active iOS community member, with an eye for quality and the drive to achieve it.
-<hr>
+[john@johnregner.com][mail] -- <a href="tel:2627161799">(262) 716-1799</a>\
+[github.com/regnerjr][hub] -- [blog.johnregner.com][blog]
 
-#### iOS Contract Developer - <a href="http://grocery.walmart.com">Walmart Grocery</a>, <a href="http://safeway.com">Safeway</a> <div align="right"> - _Apr 2016 - Present_</div>
-**Tech**: Swift & Objective-C, CoreData, Fastlane/Jenkins/make, GCD, Agile, svn, git
+</span>
+
+[mail]: mailto:john@johnregner.com
+[hub]: http://github.com/regnerjr
+[blog]: http://blog.johnregner.com
+
+An expert technologist with an eye for quality and the drive to achieve it.
+Love for the people around me to succeed.
+improve quality, improve all developers in proximity
+learn and teach
+
+* * * * * *
+
+#### Walmart --- Senior iOS Developer - <div align="right">_Dec 2017 - Present_</div>
+
+**Tech**: Swift, xcodebuild, git, Github, CI
+
+* iOS Platform Team
+* Debug CI issues
+* Developer technical support, build issues, laptop issues, access issues, architectural suggestions.
+* Support 150+ developers with technical support.
+* Work closely with the Release engineering team to deliver our artifacts to the app store.
+* Build scripts, laptop setup scripts, core frameworks setup and maintenance.
+* Xcode migrations, tooling migrations, ruby, python, node, swiftlint, carthage
+
+#### Walmart, Safeway --- iOS Contract Developer - <div align="right">_Apr 2016 - Dec 2017_</div>
+**Tech**: Swift & Objective-C, Fastlane/Jenkins/make, GCD, svn, git
 
 * Converted team from SVN to Git for increased flexibility and trust in our version control system
 * Improved build process using Fastlane and Jenkins
-* Lead Swift 2.2 -> 2.3 conversion
-* Improved user experience by recommending the proper use of animations
 
-#### <a href="http://tripstr.com">Tripstr</a> - Co-Founder, iOS Developer <div align="right"> - _Oct 2015 - Mar 2016_</div>
-**Tech**: Swift, Core-Data, AsyncDisplayKit, Fastlane/CI, CocoaPods, GCD, Agile, GitHub
+#### Tripstr --- Co-Founder, iOS Developer - <div align="right">_Oct 2015 - Mar 2016_</div>
+**Tech**: Swift, AsyncDisplayKit, GCD
 
 * Improved all parts of the iOS App from layout and networking, to Testing and Continuous Integration
 * Added UITesting to ensure regressions were caught early in iterations.
 
-#### <a href="http://www.meetup.com/SantaClara-iOS/">Santa Clara iOS Connect</a> Peer Mentor <div align="right"> - _Aug 2015 - Present_</div>
+#### Santa Clara iOS Connect --- Peer Mentor - <div align="right">_2015 - 2017_</div>
 **Tech**: Xcode, UIKit, CoreGraphics, Swift, Objective-C, Git, Software Architecture
 
-* Teach and Mentor Beginning and Intermediate iOS Programmers
-* Formal presentations on iOS Unit and UITesting, and Git and GitHub
-* Answer and explain iOS questions, on iOS technologies, and Best Practices
+* Taught and mentored beginning and intermediate iOS programmers. 
+* Provided formal presentations on iOS Unit and UITesting, and Git and GitHub
 
-#### Astronautics Corporation of America -- Software Verification Engineer <div align="right"> - _2012 - 2015_</div>
+
+#### Astronautics Corporation of America --- Software Verification Engineer  - <div align="right">_2012 - 2015_</div>
 **Tech**: Linux, bash, python, sed, awk, C, C++, Visual Studio, Cygwin, make
 
 * Automated re-imaging of server and install of testing scripts to reduce testing time
 * Designed tests and scripts for verification of a Linux Server and remote terminals
 
-#### MIT Lincoln Lab -- R&D Software Development Intern  <div align="right"> - _Summers 2009 - 2011_</div>
+#### MIT Lincoln Lab --- R&D Software Development Intern - <div align="right">_Summers 2009 - 2011_</div>
 **Tech**: C#, Visual Studio, LabView, MATLAB, Simulink
 
 * Designed and built radar user interface, and FPGA radar sub components
 * Implemented k-means clustering algorithm and associated graph to allow operator to determine approximate number and spacing of other radar systems operating in the same area
 
-#### Education - Milwaukee School of Engineering - BSEE <div align="right"> - _2007-2011_</div>
+#### Education - Milwaukee School of Engineering - BS Electrical Engineering  - <div align="right">_2007-2011_</div>
 
-* WAVE Smart Home Power Monitor - **Tech**: C, C#, SVN, Embedded Systems, Perl, Wireless UART,
+* WAVE Smart Home Power Monitor - **Tech**: C, C#, SVN, Embedded Systems, Perl, Wireless UART
 * iPhone Audio Effects System - **Tech**: Objective-C, CoreAudio, Debugging
 
-#### United States Navy -- Aviation Electronics Technician  <div align="right"> - _2003 - 2007_</div>
+#### United States Navy -- Aviation Electronics Technician  - <div align="right">_2003 - 2007_</div>
 
-* Analyzed and repaired faults in multiple hardware systems on board the aircraft
-* Supervised and delegated tasks to a team of 8 people
-
-<hr>
-#### Professional Development
-
-* Conferences: CocoaConf Aug-2014, Functional Swift Conf Dec-2014, Swift Summit Oct-2015,
-* Training: Advanced iOS Big Nerd Ranch -  Atlanta, GA - Feb 2015
-* DevCamp Hackathon - [Best Open Source](https://devca.mp/team-fe0ba080aa57#8415) - San Francisco, Nov 2016
-* RokkinCat Hackathon - Milwaukee, WI - Oct, 2014, Jan, 2015
-* Meet-ups: NSCoder Milwaukee (2014 - 2015), Swift Lang User Group (2015 - 2016), Santa Clara iOS Connect (2015 - Present)
+Supervised and delegated troubleshooting and maintenance tasks to a team of 8 people.
+Analyzed and repaired faults in multiple hardware systems on board the aircraft
