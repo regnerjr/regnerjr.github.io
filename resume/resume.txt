@@ -22,8 +22,15 @@ I love for the people around me to succeed with me.
 * * * * * *
 
 #### Walmart --- Senior iOS Developer - <div align="right">_Dec 2017 - Present_</div>
-
 **Tech**: Swift, xcodebuild, git, Github, CI
+
+What did I do the entire time I was an X4.
+Tons of version of apps shipped to the store. Grocery and WM
+Integration of Custom Walmart RN wrapper. Membership / W+ / Order Tracking / Baby Register / Store Mode / Geofence
+And that's just the code I wrote, a handful of xcode migrations, carthage migrations, xcframework adoption, M1 migration.
+Builds scripts for CI Grocery & Glass, Github integration for lint and test reporting.
+Stable version or node, ruby, python on dev machines.
+So many ssh problems.
 
 * iOS Platform Team
 * Debug CI issues
@@ -33,11 +40,13 @@ I love for the people around me to succeed with me.
 * Build scripts, laptop setup scripts, core frameworks setup and maintenance.
 * Xcode migrations, tooling migrations, ruby, python, node, swiftlint, carthage
 
+
 #### Walmart, Safeway --- iOS Contract Developer - <div align="right">_Apr 2016 - Dec 2017_</div>
 **Tech**: Swift & Objective-C, Fastlane/Jenkins/make, GCD, svn, git
 
 * Converted team from SVN to Git for increased flexibility and trust in our version control system
-* Improved build process using Fastlane and Jenkins
+* Improved build process using Fastlane, previously buids were performed by hand on a developer laptop to ship 6 versions of the "whitelabeled" app.
+
 
 #### Tripstr --- Co-Founder, iOS Developer - <div align="right">_Oct 2015 - Mar 2016_</div>
 **Tech**: Swift, AsyncDisplayKit, GCD
@@ -45,10 +54,11 @@ I love for the people around me to succeed with me.
 * Improved all parts of the iOS App from layout and networking, to Testing and Continuous Integration
 * Added UITesting to ensure regressions were caught early in iterations.
 
+
 #### Santa Clara iOS Connect --- Peer Mentor - <div align="right">_2015 - 2017_</div>
 **Tech**: Xcode, UIKit, CoreGraphics, Swift, Objective-C, Git, Software Architecture
 
-* Taught and mentored beginning and intermediate iOS programmers. 
+* Taught and mentored beginning and intermediate iOS programmers.
 * Provided formal presentations on iOS Unit and UITesting, and Git and GitHub
 
 
@@ -58,16 +68,19 @@ I love for the people around me to succeed with me.
 * Automated re-imaging of server and install of testing scripts to reduce testing time
 * Designed tests and scripts for verification of a Linux Server and remote terminals
 
+
 #### MIT Lincoln Lab --- R&D Software Development Intern - <div align="right">_Summers 2009 - 2011_</div>
 **Tech**: C#, Visual Studio, LabView, MATLAB, Simulink
 
 * Designed and built radar user interface, and FPGA radar sub components
 * Implemented k-means clustering algorithm and associated graph to allow operator to determine approximate number and spacing of other radar systems operating in the same area
 
+
 #### Education - Milwaukee School of Engineering - BS Electrical Engineering  - <div align="right">_2007-2011_</div>
 
 * WAVE Smart Home Power Monitor - **Tech**: C, C#, SVN, Embedded Systems, Perl, Wireless UART
 * iPhone Audio Effects System - **Tech**: Objective-C, CoreAudio, Debugging
+
 
 #### United States Navy -- Aviation Electronics Technician  - <div align="right">_2003 - 2007_</div>
 
