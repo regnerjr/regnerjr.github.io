@@ -1,12 +1,10 @@
 #!/usr/bin/env bash
 
 #generate html resume page in the correct format for display on web cp resume.txt JohnRegnerResume.txt
-cp resume.txt JohnRegnerResume.txt
-mmd JohnRegnerResume.txt
-rm JohnRegnerResume.txt
+mmd resume.txt
 
 #generate pdf resume from html
-htmldoc JohnRegnerResume.html \
+htmldoc resume.html \
   --no-numbered \
   --no-title \
   --no-toc \
