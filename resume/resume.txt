@@ -21,68 +21,57 @@ I love for the people around me to succeed with me.
 
 * * * * * *
 
-#### Walmart --- Senior iOS Developer - <div align="right">_Dec 2017 - Present_</div>
-**Tech**: Swift, xcodebuild, git, Github, CI
+### iOS Developer - <div align="right">_2015 - Present_</div>
+**Companies**: Walmart, Safeway, Tripstr, Spark App Studio <br/>
+**Tech**: Swift, Objective-C, git, GitHub, carthage, ruby, bash, AsyncDisplayKit, AVFoundation, Quartz, svn, Jenkins
 
-What did I do the entire time I was an X4.
-Tons of version of apps shipped to the store. Grocery and WM
-Integration of Custom Walmart RN wrapper. Membership / W+ / Order Tracking / Baby Register / Store Mode / Geofence
-And that's just the code I wrote, a handful of xcode migrations, carthage migrations, xcframework adoption, M1 migration.
-Builds scripts for CI Grocery & Glass, Github integration for lint and test reporting.
-Stable version or node, ruby, python on dev machines.
-So many ssh problems.
+* Managed delivery of dozens of apps to the app store. Local builds with signing, whitelabeling, CI, point releases all of it.
+* Integration of Custom Walmart ReactNative wrapper.
+* Feature works used my millions of customers Grocery /  Membership / W+ / Order Tracking / Baby Register / Store Mode / Geofence
+* Migrations, Swift, Xcode migrations, tools migrations, Xcframework adoption & M1 support
+* Wrote custom CI scripts to report lint, test failures, and code coverage directly on PRs to improve developer feedback loop
+* Drove efforts to align developer local tools and CI to have consistent versions of Xcode, node, ruby, python to enhance fault reproduction.
+* Provided iOS developer support to team of ~150 developers.
 
-* iOS Platform Team
 * Debug CI issues
 * Developer technical support, build issues, laptop issues, access issues, architectural suggestions.
 * Support 150+ developers with technical support.
 * Work closely with the Release engineering team to deliver our artifacts to the app store.
 * Build scripts, laptop setup scripts, core frameworks setup and maintenance.
-* Xcode migrations, tooling migrations, ruby, python, node, swiftlint, carthage
 
-
-#### Walmart, Safeway --- iOS Contract Developer - <div align="right">_Apr 2016 - Dec 2017_</div>
-**Tech**: Swift & Objective-C, Fastlane/Jenkins/make, GCD, svn, git
-
-* Converted team from SVN to Git for increased flexibility and trust in our version control system
-* Improved build process using Fastlane, previously buids were performed by hand on a developer laptop to ship 6 versions of the "whitelabeled" app.
-
-
-#### Tripstr --- Co-Founder, iOS Developer - <div align="right">_Oct 2015 - Mar 2016_</div>
-**Tech**: Swift, AsyncDisplayKit, GCD
-
-* Improved all parts of the iOS App from layout and networking, to Testing and Continuous Integration
+* Converted team from SVN to Git for increased flexibility in our version control system
+* Removed errors from build process with fastlane. Multiple App Store builds could now be created for our white labeled app.
+* Used Photos framework along with CoreData and AsyncDisplayKit to provide engaging trip views.
 * Added UITesting to ensure regressions were caught early in iterations.
 
 
-#### Santa Clara iOS Connect --- Peer Mentor - <div align="right">_2015 - 2017_</div>
-**Tech**: Xcode, UIKit, CoreGraphics, Swift, Objective-C, Git, Software Architecture
+### Meetup Organizer & Presenter --- Santa Clara iOS Connect -- <div align="right">_2015 - 2017_</div>
 
 * Taught and mentored beginning and intermediate iOS programmers.
 * Provided formal presentations on iOS Unit and UITesting, and Git and GitHub
 
 
-#### Astronautics Corporation of America --- Software Verification Engineer  - <div align="right">_2012 - 2015_</div>
+### Software Verification Engineer --- Astronautics Corporation of America -- <div align="right">_2012 - 2015_</div>
 **Tech**: Linux, bash, python, sed, awk, C, C++, Visual Studio, Cygwin, make
 
 * Automated re-imaging of server and install of testing scripts to reduce testing time
 * Designed tests and scripts for verification of a Linux Server and remote terminals
 
 
-#### MIT Lincoln Lab --- R&D Software Development Intern - <div align="right">_Summers 2009 - 2011_</div>
+### R&D Software Development Intern --- MIT Lincoln Lab <div align="right">_Summers 2009 - 2011_</div>
 **Tech**: C#, Visual Studio, LabView, MATLAB, Simulink
 
 * Designed and built radar user interface, and FPGA radar sub components
 * Implemented k-means clustering algorithm and associated graph to allow operator to determine approximate number and spacing of other radar systems operating in the same area
 
 
-#### Education - Milwaukee School of Engineering - BS Electrical Engineering  - <div align="right">_2007-2011_</div>
+#### Education - Milwaukee School of Engineering - BS Electrical Engineering <div align="right">_2007-2011_</div>
 
 * WAVE Smart Home Power Monitor - **Tech**: C, C#, SVN, Embedded Systems, Perl, Wireless UART
 * iPhone Audio Effects System - **Tech**: Objective-C, CoreAudio, Debugging
 
 
-#### United States Navy -- Aviation Electronics Technician  - <div align="right">_2003 - 2007_</div>
+#### Aviation Electronics Technician --- United States Navy <div align="right">_2003 - 2007_</div>
 
-Supervised and delegated troubleshooting and maintenance tasks to a team of 8 people.
-Analyzed and repaired faults in multiple hardware systems on board the aircraft
+* Supervised and delegated troubleshooting and maintenance tasks to a team of 8 people.
+* Analyzed and repaired faults in multiple hardware systems on board the aircraft
