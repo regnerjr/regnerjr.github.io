@@ -21,57 +21,85 @@ I love for the people around me to succeed with me.
 
 * * * * * *
 
-### iOS Developer - <div align="right">_2015 - Present_</div>
-**Companies**: Walmart, Safeway, Tripstr, Spark App Studio <br/>
-**Tech**: Swift, Objective-C, git, GitHub, carthage, ruby, bash, AsyncDisplayKit, AVFoundation, Quartz, svn, Jenkins
+## iOS Developer --- <span class="right">_2015--Present_</span>
+**Companies**: Walmart, Safeway, Tripstr, [Spark App Studio](http://sparkappstudio.com) <br/>
+**Tech**: Swift, Objective-C, git, GitHub, carthage, ruby, bash, GraphQL, AsyncDisplayKit, AVFoundation, Core Animation, Quartz, svn, Jenkins, Agile
 
-* Managed delivery of dozens of apps to the app store. Local builds with signing, whitelabeling, CI, point releases all of it.
-* Integration of Custom Walmart ReactNative wrapper.
-* Feature works used my millions of customers Grocery /  Membership / W+ / Order Tracking / Baby Register / Store Mode / Geofence
-* Migrations, Swift, Xcode migrations, tools migrations, Xcframework adoption & M1 support
-* Wrote custom CI scripts to report lint, test failures, and code coverage directly on PRs to improve developer feedback loop
-* Drove efforts to align developer local tools and CI to have consistent versions of Xcode, node, ruby, python to enhance fault reproduction.
-* Provided iOS developer support to team of ~150 developers.
+**Team**
+* Provided trainings on: Git workflows, Unit Testing, Object Oriented Design, UIKit CA basics
+* Diagnosed and repaired developer laptop issues, shell, ssh, tooling.
+* Drove efforts to align developer and CI tooling to reduce errors.
 
-* Debug CI issues
-* Developer technical support, build issues, laptop issues, access issues, architectural suggestions.
-* Support 150+ developers with technical support.
+
+**Initiative**
+* Sped up developer feedback with custom Pull Request failure reporting, and linting
+* Developed iPad Proof of Concept
+* Co-Founder of Spark App Studio.
+
+
+**Author**
+* Shipped customer impacting features in small and large apps, unit tested, behind feature flags
+* Authored feature work used my millions of customers Grocery / W+ / Baby Register / Store Mode
+* Integrated custom Walmart ReactNative wrapper.
 * Work closely with the Release engineering team to deliver our artifacts to the app store.
-* Build scripts, laptop setup scripts, core frameworks setup and maintenance.
+* Managed delivery of dozens of apps and versions of apps to the app store.
+* Used Photos framework along with CoreData and AsyncDisplayKit to provide engaging trip views.
 
+
+**Workflow**
+* Added Snapshot testing
+* Added UITesting to ensure regressions were caught early in iterations.
 * Converted team from SVN to Git for increased flexibility in our version control system
 * Removed errors from build process with fastlane. Multiple App Store builds could now be created for our white labeled app.
-* Used Photos framework along with CoreData and AsyncDisplayKit to provide engaging trip views.
-* Added UITesting to ensure regressions were caught early in iterations.
+* Github Organization admin permission reduction and alignment
+* Migrations, Swift, Xcode migrations, tools migrations, XCFramework adoption & M1 support
 
 
-### Meetup Organizer & Presenter --- Santa Clara iOS Connect -- <div align="right">_2015 - 2017_</div>
+## Organizer & Presenter --- Santa Clara iOS Connect <span class="right">_2015--2017_</span>
 
+* Weekly meetup and project group
 * Taught and mentored beginning and intermediate iOS programmers.
 * Provided formal presentations on iOS Unit and UITesting, and Git and GitHub
 
 
-### Software Verification Engineer --- Astronautics Corporation of America -- <div align="right">_2012 - 2015_</div>
+## Software QA --- Astronautics Corporation of America <span class="right">_2012--2015_</span>
 **Tech**: Linux, bash, python, sed, awk, C, C++, Visual Studio, Cygwin, make
 
 * Automated re-imaging of server and install of testing scripts to reduce testing time
 * Designed tests and scripts for verification of a Linux Server and remote terminals
 
 
-### R&D Software Development Intern --- MIT Lincoln Lab <div align="right">_Summers 2009 - 2011_</div>
+## R&D Intern --- MIT Lincoln Lab <span class="right">_Summers 2009--2011_</span>
 **Tech**: C#, Visual Studio, LabView, MATLAB, Simulink
 
 * Designed and built radar user interface, and FPGA radar sub components
 * Implemented k-means clustering algorithm and associated graph to allow operator to determine approximate number and spacing of other radar systems operating in the same area
 
 
-#### Education - Milwaukee School of Engineering - BS Electrical Engineering <div align="right">_2007-2011_</div>
+### Education - MSOE - BS Electrical Engineering <span class="right">_2007--2011_</span>
 
 * WAVE Smart Home Power Monitor - **Tech**: C, C#, SVN, Embedded Systems, Perl, Wireless UART
 * iPhone Audio Effects System - **Tech**: Objective-C, CoreAudio, Debugging
 
 
-#### Aviation Electronics Technician --- United States Navy <div align="right">_2003 - 2007_</div>
+## Aviation Electronics Technician --- US Navy <span class="right">    _2003--2007_</span >
 
 * Supervised and delegated troubleshooting and maintenance tasks to a team of 8 people.
 * Analyzed and repaired faults in multiple hardware systems on board the aircraft
+
+<!-- <div style="page-break-after: always;"></div> -->
+
+* * * * * *
+
+## Professional Development
+
+* Conferences: CocoaConf Aug-2014, Functional Swift Conf Dec 2014 & Apr 2017, Swift Summit Oct-2015,
+* Training: Advanced iOS Big Nerd Ranch - Atlanta, GA - Feb 2015
+* DevCamp Hackathon - [Best Open Source](https://devca.mp/team-fe0ba080aa57#8415) - San Francisco, Nov 2016
+* RokkinCat Hackathon - Milwaukee, WI - Oct 2014, Jan 2015
+* Meet-ups: NSCoder Milwaukee (2014--2015), Swift Lang User Group (2015--2016), Santa Clara iOS Connect (2015--2017)
+
+* * * * *
+[This resume brought to you by the power of plain text, MultiMarkdown, and htmldoc. https://github.com/regnerjr/regnerjr.github.io][resume]
+
+[resume]: https://github.com/regnerjr/regnerjr.github.io

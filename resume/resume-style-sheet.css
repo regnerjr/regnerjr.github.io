@@ -9,12 +9,19 @@ p {
   margin: 3px;
 }
 
+h2 {
+  margin: 3px;
+  margin-top: 6px;
+}
+
 h3 {
   margin: 3px;
 }
+
 ul {
   margin-top: 3px;
 }
+
 blockquote {
   margin: 3px 3%;
 }
@@ -22,6 +29,7 @@ blockquote {
 h4 {
   margin: 3px;
 }
+
 #projects {
   margin: auto 2%;
 }
