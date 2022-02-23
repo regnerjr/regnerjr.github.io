@@ -17,49 +17,47 @@ Title: John Regner Resume
 [blog]: http://blog.johnregner.com
 
 An expert technologist with an eye for quality and the drive to achieve it.
-I love for the people around me to succeed with me.
+I thrive when my teammates succeed.
 
 * * * * * *
 
 ## iOS Developer --- <span class="right">_2015--Present_</span>
-**Companies**: Walmart, Safeway, Tripstr, [Spark App Studio](http://sparkappstudio.com) <br/>
-**Tech**: Swift, Objective-C, git, GitHub, carthage, ruby, bash, GraphQL, AsyncDisplayKit, AVFoundation, Core Animation, Quartz, svn, Jenkins, Agile
-
-**Team**
-* Provided trainings on: Git workflows, Unit Testing, Object Oriented Design, UIKit CA basics
-* Diagnosed and repaired developer laptop issues, shell, ssh, tooling.
-* Drove efforts to align developer and CI tooling to reduce errors.
+**Work History**: Walmart, Safeway, Tripstr, [Spark App Studio](http://sparkappstudio.com) <br/>
+**Tech Fluency**: Swift, Objective-C, git, carthage, ruby, bash, GraphQL, Core Animation, Quartz, svn, Agile
 
 
-**Initiative**
-* Sped up developer feedback with custom Pull Request failure reporting, and linting
-* Developed iPad Proof of Concept
-* Co-Founder of Spark App Studio.
+### Team
+* Designed and lead trainings: Git workflows, Unit Testing, Object Oriented Design, UIKit, and CA basics
+* Established myself as the build environment support to eliminate tech issues for developers
+* Introduced and organized efforts to align developer and CI tooling to reduce errors
+* Converted Safeway iOS team from SVN to Git for increased flexibility
 
 
-**Author**
-* Shipped customer impacting features in small and large apps, unit tested, behind feature flags
-* Authored feature work used my millions of customers Grocery / W+ / Baby Register / Store Mode
-* Integrated custom Walmart ReactNative wrapper.
-* Work closely with the Release engineering team to deliver our artifacts to the app store.
-* Managed delivery of dozens of apps and versions of apps to the app store.
-* Used Photos framework along with CoreData and AsyncDisplayKit to provide engaging trip views.
+### Initiative
+* Developed and deployed custom Pull Request error reporting in order to shorten developer feedback loop
+* Identified need for iPad version on Walmart and built proof of concept to demonstrate for management
+* Co-Founder of Spark App Studio
 
 
-**Workflow**
-* Added Snapshot testing
-* Added UITesting to ensure regressions were caught early in iterations.
-* Converted team from SVN to Git for increased flexibility in our version control system
-* Removed errors from build process with fastlane. Multiple App Store builds could now be created for our white labeled app.
-* Github Organization admin permission reduction and alignment
-* Migrations, Swift, Xcode migrations, tools migrations, XCFramework adoption & M1 support
+### Author
+* Successfully shipped dozens of apps and versions independently and as part of large teams
+* Authored feature work used by millions of customers including feature flags and VoiceOver support
+* Wrote scripts around Walmart ReactNative wrapper to save developers time
+* Used Photos framework along with CoreData and AsyncDisplayKit to engage users
 
+
+### Workflow
+* Ensured regressions were caught early in iterations by adopting XCUITest and FBSnapshotTestcase
+* Removed errors from build process with fastlane so multiple build variants could be created
+* Performed an audit of Github Organization permissions to ensure appropriate access
+* Researched and deployed numerous Swift, Xcode, and tooling migrations for a team of 170 devlelopers
+
+<hr>
 
 ## Organizer & Presenter --- Santa Clara iOS Connect <span class="right">_2015--2017_</span>
 
-* Weekly meetup and project group
-* Taught and mentored beginning and intermediate iOS programmers.
-* Provided formal presentations on iOS Unit and UITesting, and Git and GitHub
+* Taught and mentored beginning and intermediate iOS programmers through meet-ups
+* Designed and presented trainings on iOS Unit/UITesting, Git + GitHub, and CoreLocation
 
 
 ## Software QA --- Astronautics Corporation of America <span class="right">_2012--2015_</span>
@@ -73,19 +71,19 @@ I love for the people around me to succeed with me.
 **Tech**: C#, Visual Studio, LabView, MATLAB, Simulink
 
 * Designed and built radar user interface, and FPGA radar sub components
-* Implemented k-means clustering algorithm and associated graph to allow operator to determine approximate number and spacing of other radar systems operating in the same area
+* Implemented k-means clustering algorithm and associated graph 
 
 
-### Education - MSOE - BS Electrical Engineering <span class="right">_2007--2011_</span>
+## Education - MSOE - BS Electrical Engineering <span class="right">_2007--2011_</span>
 
-* WAVE Smart Home Power Monitor - **Tech**: C, C#, SVN, Embedded Systems, Perl, Wireless UART
-* iPhone Audio Effects System - **Tech**: Objective-C, CoreAudio, Debugging
+* WAVE Smart Home Power Monitor -- Tech: C, C#, SVN, Embedded Systems, Perl, Wireless UART
+* iPhone Audio Effects System -- Tech: Objective-C, CoreAudio, Debugging
 
 
 ## Aviation Electronics Technician --- US Navy <span class="right">    _2003--2007_</span >
 
-* Supervised and delegated troubleshooting and maintenance tasks to a team of 8 people.
-* Analyzed and repaired faults in multiple hardware systems on board the aircraft
+* Supervised and delegated troubleshooting and maintenance tasks to a team of 8 people
+* Analyzed and repaired faults in multiple hardware systems
 
 <!-- <div style="page-break-after: always;"></div> -->
 
@@ -93,11 +91,17 @@ I love for the people around me to succeed with me.
 
 ## Professional Development
 
-* Conferences: CocoaConf Aug-2014, Functional Swift Conf Dec 2014 & Apr 2017, Swift Summit Oct-2015,
-* Training: Advanced iOS Big Nerd Ranch - Atlanta, GA - Feb 2015
+// list all most current to most distant - dates in second column
+* C Programming - March 2022
 * DevCamp Hackathon - [Best Open Source](https://devca.mp/team-fe0ba080aa57#8415) - San Francisco, Nov 2016
-* RokkinCat Hackathon - Milwaukee, WI - Oct 2014, Jan 2015
-* Meet-ups: NSCoder Milwaukee (2014--2015), Swift Lang User Group (2015--2016), Santa Clara iOS Connect (2015--2017)
+* Functional Swift Conf - Dec 2014 & Apr 2017
+* Swift Summit - Oct 2015
+* Swift Lang User Group  - 2015--2016
+* Santa Clara iOS Connect - 2015--2017
+* Advanced iOS Big Nerd Ranch - Atlanta, GA - Feb 2015
+* RokkinCat Hackathon - Oct 2014 & Jan 2015
+* NSCoder Milwaukee - 2014--2015
+* CocoaConf - Aug 2014
 
 * * * * *
 [This resume brought to you by the power of plain text, MultiMarkdown, and htmldoc. https://github.com/regnerjr/regnerjr.github.io][resume]

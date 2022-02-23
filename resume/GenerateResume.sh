@@ -9,12 +9,12 @@ htmldoc resume.html \
   --no-title \
   --no-toc \
   --header . \
-  --footer . \
+  --footer ..1\
   --top 20pt \
   --bottom 20pt \
   --right 40pt \
   --left 40pt \
-  --fontspacing 0.9 \
+  --fontspacing 1 \
   --linkstyle plain \
   -f JohnRegnerResume.pdf
 

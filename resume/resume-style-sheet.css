@@ -2,9 +2,11 @@ body {
   font-family: Helvetica;
   margin: 20px
 }
+
 .right {
   float: right;
 }
+
 p {
   margin: 3px;
 }
@@ -19,7 +21,11 @@ h3 {
 }
 
 ul {
-  margin-top: 3px;
+  margin-top: 1px;
+}
+
+li {
+    padding: 1px;
 }
 
 blockquote {
@@ -29,9 +35,4 @@ blockquote {
 h4 {
   margin: 3px;
 }
-
-#projects {
-  margin: auto 2%;
-}
-
 
