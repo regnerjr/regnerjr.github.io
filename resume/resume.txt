@@ -35,7 +35,7 @@ I thrive when my teammates succeed.
 
 ### Initiative
 * Developed and deployed custom Pull Request error reporting in order to shorten developer feedback loop
-* Identified need for iPad version on Walmart and built proof of concept to demonstrate for management
+* Identified need for iPad version at Walmart and built proof of concept to demonstrate for management
 * Co-Founder of Spark App Studio
 
 
@@ -66,6 +66,7 @@ I thrive when my teammates succeed.
 * Automated re-imaging of server and install of testing scripts to reduce testing time
 * Designed tests and scripts for verification of a Linux Server and remote terminals
 
+<div style="page-break-after: always;"></div>
 
 ## R&D Intern --- MIT Lincoln Lab <span class="right">_Summers 2009--2011_</span>
 **Tech**: C#, Visual Studio, LabView, MATLAB, Simulink
@@ -85,13 +86,11 @@ I thrive when my teammates succeed.
 * Supervised and delegated troubleshooting and maintenance tasks to a team of 8 people
 * Analyzed and repaired faults in multiple hardware systems
 
-<!-- <div style="page-break-after: always;"></div> -->
 
 * * * * * *
 
 ## Professional Development
 
-// list all most current to most distant - dates in second column
 * C Programming - March 2022
 * DevCamp Hackathon - [Best Open Source](https://devca.mp/team-fe0ba080aa57#8415) - San Francisco, Nov 2016
 * Functional Swift Conf - Dec 2014 & Apr 2017

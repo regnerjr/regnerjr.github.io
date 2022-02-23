@@ -14,7 +14,7 @@ htmldoc resume.html \
   --bottom 20pt \
   --right 40pt \
   --left 40pt \
-  --fontspacing 1 \
+  --fontspacing 1.1 \
   --linkstyle plain \
   -f JohnRegnerResume.pdf
 
